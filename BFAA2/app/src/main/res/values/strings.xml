@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BFAA</string>
+
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+
+    <string name="data_followers">%d Followers</string>
+    <string name="data_following">%d Following</string>
+    <string name="search">Search</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="change_theme_settings">Change Theme Settings</string>
+    <string name="search_btn">search_btn</string>
+    <string name="u2022">•</string>
+    <string name="favorite_button">favorite button</string>
+    <string name="favorite">Favorite</string>
+
+</resources>
